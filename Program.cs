@@ -79,7 +79,7 @@
             input = Console.ReadLine();
             if (input == "1")
             {
-                Console.WriteLine("You selected 1.");
+                Console.WriteLine("You selected 1!");
                 Thread.Sleep(700);
 
                 MainMenu();
